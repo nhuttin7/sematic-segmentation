@@ -32,12 +32,18 @@ FCN is a neural network and capable of reducing sample and increasing again for 
 ## Conditional Random Fields
 CRFs is a statistic model helping FCN produces more valuable information and estimating the probability more correctly
 
-![Alt text](read_pic/crfs_P.png)
+<p align="center">
+  <img src="read_pic/crfs_P.png" alt="CRFs image"/>
+</p>
+
 
 ## Results
 Special comparing data from a specific dataset with FCNs and CRFs
 
-![Alt text](read_pic/statis.png)
+<p align="center">
+  <img src="read_pic/statis.png" alt="Result data image"/>
+</p>
+
 
 
 
