@@ -3,6 +3,13 @@ The algorithm proposes the new combination between FCN and CRFs. Split the foreg
 
 ![Alt text](read_pic/road_seg.png)
 
+## Poster 
+
+<p align="center">
+  <img src="documents/FCN-CRFs-poster.png" alt="Poster image"/>
+</p>
+
+
 ## Abstract 
 
 The semantic image segmentation technique has many applications in digital graphics, determines the exact location of the object described in the image and cuts, edits them, brings interesting experiences, attracts innovative ideas to form the useful applications. The author's approach direction is to create an application that is capable of separating photo fonts, bringing uniqueness when the object can appear with many different backgrounds even if taken from one place.
@@ -11,7 +18,9 @@ In this report, the author uses the calculation method of Fully Convolutional Ne
 
 Keywords: semantic image segmentation, fully convolutional network, conditional random fields
 
-![Alt text](read_pic/ss.png)
+<p align="center">
+  <img src="read_pic/ss.png" alt="Abstract image"/>
+</p>
 
 
 ## Fully Convolutional Network
